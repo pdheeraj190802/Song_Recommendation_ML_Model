@@ -7,7 +7,7 @@ This data has ratings given by the listeners, qualitative feedback, answers to t
 and listeners demographics. We will use this dataset to get the rating of the test dataset.
 
 #### Problem Statement
-Recommendation of a song for the listener nased on gender, age, region, artist they like and many more.
+Recommendation of a song for the listener based on gender, age, region, artist they like and many more.
 
 It is a Regression type problem.
 
